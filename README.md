@@ -7,11 +7,12 @@ Je m'appelle Florian, développeur web passionné par la création d'expérience
 Découvrez mes compétences, mon parcours et mes projets personnels à travers mon portfolio :
 [portfolio-florian-vercel.vercel.app](https://portfolio-florian-vercel.vercel.app/)
 
-## 💼 Projets Réalisés et participation
+## 💼 Projets Réalisés et Participation
 
 Voici quelques exemples de sites web que j'ai créés pour mes clients et collaborateurs :
 
-[val-illustrations.vercel.app](https://val-illustrations.vercel.app/admin/my-illustrations)
-[monaventure.eu](https://www.monaventure.eu/)
-[lhttps://ffillouxdev.github.io/logicompta-website/](https://ffillouxdev.github.io/logicompta-website/)
-[https://portfolio-leo-vercel.vercel.app/](https://portfolio-leo-vercel.vercel.app/)
+- [Val Illustrations](https://val-illustrations.vercel.app/admin/my-illustrations)
+- [MonAventure](https://www.monaventure.eu/)
+- [Logicompta Website](https://ffillouxdev.github.io/logicompta-website/)
+- [Portfolio de Léo](https://portfolio-leo-vercel.vercel.app/)
+
