@@ -13,6 +13,7 @@ Voici quelques exemples de sites web que j'ai créés pour mes clients et collab
 
 - [Val Illustrations](https://val-illustrations.vercel.app)
 - [Monaventure](https://www.mona-venture.com/)
+- [La juriste indépendante](https://la-juriste-independante-v2.vercel.app/)
 - [Logicompta Website](https://ffillouxdev.github.io/logicompta-website/)
 - [Portfolio de Léo](https://portfolio-leo-vercel.vercel.app/)
 - [Flask-tree-restaurants-app](https://floriaanmtpp.pythonanywhere.com/)
