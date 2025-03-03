@@ -18,4 +18,5 @@ Voici quelques exemples de sites web que j'ai créés pour mes clients et collab
 - [Portfolio de Léo](https://portfolio-leo-vercel.vercel.app/)
 - [Flask-tree-restaurants-app](https://floriaanmtpp.pythonanywhere.com/)
 - [template-first-price-ecom](https://template-first-price-ecom.vercel.app/)
+- [apprentissage-vue](http://p2203403.pages.univ-lyon1.fr/my-beautiful-vue-app/)
 
