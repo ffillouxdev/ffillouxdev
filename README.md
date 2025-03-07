@@ -1,11 +1,11 @@
 # 👋 Bienvenue sur mon GitHub !
 
-Je m'appelle Florian, développeur web passionné par la création d'expériences numériques innovantes. Vous trouverez ici un aperçu des projets sur lesquels j'ai travaillé ainsi que mon portfolio professionnel.
+Je m'appelle Florian, développeur passionné par la création d'expériences numériques innovantes. Vous trouverez ici un aperçu des projets sur lesquels j'ai travaillé ainsi que mon portfolio professionnel.
 
 ## 🌍 Mon Portfolio
 
 Découvrez mes compétences, mon parcours et mes projets personnels à travers mon portfolio :
-[portfolio-florian-vercel.vercel.app](https://portfolio-florian-vercel.vercel.app/)
+[portfolio-florian](https://portfolio-florian-vercel.vercel.app/)
 
 ## 🏫Projets Réalisés pour apprendre à l'école 
 - [apprentissage-vue](http://p2203403.pages.univ-lyon1.fr/my-beautiful-vue-app/)
