@@ -7,7 +7,7 @@ Je m'appelle Florian, développeur web passionné par la création d'expérience
 Découvrez mes compétences, mon parcours et mes projets personnels à travers mon portfolio :
 [portfolio-florian-vercel.vercel.app](https://portfolio-florian-vercel.vercel.app/)
 
-## Projets Réalisés pour apprendre à l'école 
+## 🏫Projets Réalisés pour apprendre à l'école 
 - [apprentissage-vue](http://p2203403.pages.univ-lyon1.fr/my-beautiful-vue-app/)
 - [Flask-tree-restaurants-app](https://floriaanmtpp.pythonanywhere.com/)
 - [Douce'Mob](p2203403.pages.univ-lyon1.fr/sae-webs1/)
