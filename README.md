@@ -22,4 +22,6 @@ Voici quelques exemples de sites web que j'ai créés pour mes clients et collab
 - [Logicompta Website](https://ffillouxdev.github.io/logicompta-website/)
 - [Portfolio de Léo](https://portfolio-leo-vercel.vercel.app/)
 - [template-first-price-ecom](https://template-first-price-ecom.vercel.app/)
+- [LoremByFLEO](https://lorembyfleo.vercel.app/)
+
 
