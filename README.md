@@ -8,8 +8,7 @@ Découvrez mes compétences, mon parcours et mes projets personnels à travers m
 [portfolio-florian](https://portfolio-template-web.vercel.app/)
 
 ## 🏫Projets Réalisés pour apprendre à l'école 
-- [apprentissage-vue](http://p2203403.pages.univ-lyon1.fr/my-beautiful-vue-app/)
-- [Flask-tree-restaurants-app](https://floriaanmtpp.pythonanywhere.com/)
+- [apprentissage-vue](https://ffillouxdev.github.io/apprentissage-vuejs/)
 - [Douce'Mob](p2203403.pages.univ-lyon1.fr/sae-webs1/)
 
 ## 💼 Projets Réalisés et Participation
