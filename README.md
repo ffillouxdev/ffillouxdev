@@ -21,13 +21,6 @@ Explore my skills, background, and technical projects.
 
 ---
 
-## 🛰️ Projets orientés spatial / Space-Focused Projects  
-
-- [From C to Orbit](https://ffillouxdev.github.io/from-c-cpp-to-orbit/) – Description détaillée des projets en C/C++ appliqués au domaine spatial que j'ai réalisés pour apprendre.  
-- [Python Aerospace Learning](https://ffillouxdev.github.io/py-aero-space-learning) – Initiation au traitement de données et à la simulation en Python.
-
----
-
 ## 🏫 Projets académiques / Academic Projects
 
 - [Douce'Mob](https://ffillouxdev.github.io/site_SAE_web_2023-2024/) – Mon premier site web sur le thème de la mobilité durable.  
